@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Temporary backup files
+/tmp/cafe_backups/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Sensitive local config
+.backup_passphrase
+.env
+
+# System files
+*.swp
+*~
